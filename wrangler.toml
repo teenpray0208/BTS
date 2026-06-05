@@ -1,5 +1,7 @@
 name = "bts0208"
 compatibility_date = "2026-06-05"
+compatibility_flags = ["nodejs_compat"]
 
 [assets]
 directory = "."
+binding = "ASSETS"
